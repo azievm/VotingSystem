@@ -1,2 +1,2 @@
 # VotingSystem
-Voting System for Ethereum
+Solidity smart contract that allows for transparent voting
